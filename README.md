@@ -1,6 +1,6 @@
 # PKUAutoSubmit (modified)
 
-歪比巴卜
+歪比歪比
 
 ## What did I do
 
